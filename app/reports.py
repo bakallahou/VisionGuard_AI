@@ -169,11 +169,11 @@ from email import encoders
 
 def send_email_report(report_path):
 
-    sender_email = "bakallahoussam@gmail.com"
+    sender_email = "mailllll"
 
-    sender_password = "fbsj meuh nuxc tvmt"
+    sender_password = "coooooooooode"
 
-    receiver_email = "bakallahoussam@gmail.com"
+    receiver_email = "mail ashbi"
 
     subject = "VisionGuard AI Attendance Report"
 
