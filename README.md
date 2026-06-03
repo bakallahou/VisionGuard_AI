@@ -38,7 +38,7 @@ The system uses real-time facial recognition, anti-spoofing security, AI analyti
 - Secure login/logout system
 - Admin access control
 
-## 🎤 AI Voice Assistant
+##  AI Voice Assistant
 - Voice welcome system
 - Security warning alerts
 
