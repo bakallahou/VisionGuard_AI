@@ -1,6 +1,6 @@
-# 🚀 VisionGuard AI
+#  VisionGuard AI
 
-## 🧠 AI Smart Attendance & Security System
+##  AI Smart Attendance & Security System
 
 VisionGuard AI is an advanced biometric attendance and security platform based on Artificial Intelligence and Computer Vision.
 
@@ -8,33 +8,33 @@ The system uses real-time facial recognition, anti-spoofing security, AI analyti
 
 ---
 
-# ✨ Features
+#  Features
 
-## 🎯 AI Face Recognition
+##  AI Face Recognition
 - Real-time face detection
 - ArcFace facial recognition
 - Confidence score calculation
 - Unknown person detection
 
-## 🛡️ Security System
+##  Security System
 - Anti-spoofing protection
 - Security voice alerts
 - Unauthorized person detection
 - Smart monitoring system
 
-## 📊 Smart Dashboard
+##  Smart Dashboard
 - Cyberpunk Glassmorphism UI
 - Real-time analytics
 - Attendance statistics
 - Student ranking system
 - Live activity feed
 
-## 📄 Reporting System
+##  Reporting System
 - PDF report generation
 - Excel report generation
 - Automatic email sending
 
-## 🔐 Authentication
+##  Authentication
 - Secure login/logout system
 - Admin access control
 
@@ -44,7 +44,7 @@ The system uses real-time facial recognition, anti-spoofing security, AI analyti
 
 ---
 
-# 🏗️ Technologies Used
+#  Technologies Used
 
 - Python
 - Streamlit
@@ -59,7 +59,7 @@ The system uses real-time facial recognition, anti-spoofing security, AI analyti
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 VisionGuard_AI/
@@ -86,7 +86,7 @@ VisionGuard_AI/
 
 ---
 
-# ⚡ Installation
+#  Installation
 
 ## Clone Repository
 
@@ -108,7 +108,7 @@ streamlit run main.py
 
 ---
 
-# 🔥 Future Improvements
+#  Future Improvements
 
 - Cloud deployment
 - Multi-camera support
@@ -119,13 +119,10 @@ streamlit run main.py
 
 ---
 
-# 👨‍💻 Developer
+#  Developer
 
 **Bakalla Houssam**  
-FST Errachidia — SEIT Engineering
+FST Errachidia — 
 
 ---
 
-# 📜 License
-
-This project is developed for educational and research purposes.
